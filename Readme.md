@@ -8,3 +8,6 @@ Web ini adalah proyek mata kuliah, Fitur yang tersedia pada proyek ini antara la
 </ul>
 
 <b>MatKul Internet of Things</b>
+
+Preview
+![Alt text](image.png)
